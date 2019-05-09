@@ -1,0 +1,1 @@
+while True:print(input("").split(',')[-1].replace('吗','').replace("?","!"))
